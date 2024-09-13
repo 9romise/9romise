@@ -26,5 +26,6 @@ jobs:
           target_branch: main
           build_dir: dist
           keep_history: true
+          commit_message: 'chore: update snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
