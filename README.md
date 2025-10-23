@@ -1,5 +1,4 @@
 #### 🛸 Contribute
-
 <!--
 <picture>
   <source
@@ -30,7 +29,8 @@
 
 #### 💖 Sponsors
 
-I'm maintaining [ESLint Stylistic](https://eslint.style).
+I'm maintaining [VueUse](https://vueuse.org), [ESLint Stylistic](https://eslint.style).
 
 If my work helps you, consider sponsoring me so I can enjoy one more cup of instant noodles 🍜.
 - [爱发电](https://afdian.com/a/9romise)
+
