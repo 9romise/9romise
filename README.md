@@ -31,6 +31,7 @@
 
 I'm maintaining [VueUse](https://vueuse.org), [ESLint Stylistic](https://eslint.style).
 
-If my work helps you, consider sponsoring me so I can enjoy one more cup of instant noodles 🍜.
+If my work helps you, consider sponsoring me.
 - [爱发电](https://afdian.com/a/9romise)
+
 
