@@ -1,4 +1,7 @@
-#### 🛸 Contribute
+#### 🛸 Contributions
+
+I'm maintaining [VSCode npmx](https://github.com/npmx-dev/vscode-npmx), [VueUse](https://vueuse.org), [ESLint Stylistic](https://eslint.style).
+
 <!--
 <picture>
   <source
@@ -26,12 +29,3 @@
     alt="github contribution grid snake animation"
   />
 </picture>
-
-#### 💖 Sponsors
-
-I'm maintaining [VueUse](https://vueuse.org), [ESLint Stylistic](https://eslint.style).
-
-If my work helps you, consider sponsoring me.
-- [爱发电](https://afdian.com/a/9romise)
-
-
